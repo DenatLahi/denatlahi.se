@@ -2605,14 +2605,14 @@ button[type="submit"] {
   .font-size-submenu,
   .menu-horizontal ul ul a,
   .vmenu-container ul ul a {
-    font-size: 25px;
+    font-size: 14px;
   }
   .font-size-secondary-menu,
   .menu-mini.menu-smart a,
   .menu-mini.menu-smart span,
   .menu-bloginfo .menu-bloginfo-inner,
   .menu-bloginfo .menu-bloginfo-inner > * {
-    font-size: 12px;
+    font-size: 13px;
   }
   .font-size-overlay-menu,
   .menu-overlay .vmenu-container.menu-container:not(.grid-filters) .menu-smart a:not(.wc-forward) {
@@ -2631,7 +2631,7 @@ button[type="submit"] {
   .font-size-secondary-menu-mobile,
   .top-menu-enhanced .menu-mini.menu-smart a,
   .top-menu-enhanced .menu-bloginfo .menu-bloginfo-inner {
-    font-size: 10px;
+    font-size: 13px;
   }
   .font-size-mobile-centered-menu,
   body.menu-mobile-centered .main-menu-container .menu-horizontal .menu-horizontal-inner ul.menu-smart.menu-primary-inner > li > a,
@@ -2658,7 +2658,7 @@ button[type="submit"] {
   body.menu-mobile-centered .main-menu-container .menu-horizontal .menu-horizontal-inner ul.menu-smart.menu-primary-inner ul li.menu-item-link > a,
   body.menu-mobile-centered .vmenu-container .vmenu-row-wrapper .vmenu-wrap-cell ul.menu-smart.menu-primary-inner ul li.menu-item-link > a,
   body.menu-mobile-centered .overlay-menu .navbar-main .menu-sidebar-inner ul.menu-smart.menu-primary-inner ul li.menu-item-link > a {
-    font-size: 35px !important;
+    font-size: 23px !important;
   }
 }
 /* #Font-weight-menu */
