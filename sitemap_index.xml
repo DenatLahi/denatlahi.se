@@ -1,7 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="./main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="https://denatlahi.se/main-sitemap.xsl"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<sitemap>
-		<loc>./page-sitemap.xml</loc>
+		<loc>https://denatlahi.se/page-sitemap.xml</loc>
 		<lastmod>2025-08-28T20:38:30+00:00</lastmod>
 	</sitemap>
 </sitemapindex>
