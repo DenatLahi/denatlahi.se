@@ -2,7 +2,7 @@
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
 		<loc>./index.html</loc>
-		<lastmod>2025-08-28T20:29:46+00:00</lastmod>
+		<lastmod>2025-09-21T09:45:33+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Rav1.jpg</image:loc>
 		</image:image>
@@ -11,6 +11,54 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Rav3-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/MG_9434-Copy-Enhanced-NR-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_6900-naturum-skrylle-sRGBWEB-1920x-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3748-Naturum-Skrylle-sRGBWEB-1920x-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NR-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_3493-v10WEB-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_7890_v3WEB-1-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_7674-naturum-skrylle-sRGBWEB-1920x-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_6333-naturum-skrylle-sRGBWEB-1920x-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Mard2-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_2659-1920x-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Rav1-1024x683.jpg</image:loc>
@@ -47,15 +95,8 @@
 		</image:image>
 	</url>
 	<url>
-		<loc>./404-error/index.html</loc>
-		<lastmod>2025-08-28T20:18:19+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/IMG_8728-Enhanced-NR.jpg</image:loc>
-		</image:image>
-	</url>
-	<url>
 		<loc>./bilder/index.html</loc>
-		<lastmod>2025-08-28T20:22:27+00:00</lastmod>
+		<lastmod>2025-09-14T00:44:00+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Rav1.jpg</image:loc>
 		</image:image>
@@ -111,6 +152,9 @@
 			<image:loc>./wp-content/uploads/2025/08/IMG_8875-Naturum-Skrylle-sRGBWEB-1920x-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/MG_9434-Copy-Enhanced-NR-1024x683.jpg</image:loc>
+		</image:image>
+		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/IMG_3493-v10WEB-1-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
@@ -152,69 +196,16 @@
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Mard3-1024x682.jpg</image:loc>
 		</image:image>
-	</url>
-	<url>
-		<loc>./biografi/index.html</loc>
-		<lastmod>2025-08-28T20:28:02+00:00</lastmod>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n.webp</image:loc>
+			<image:loc>./wp-content/uploads/2025/09/MG_9434-Copy-Enhanced-NR-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/540970858_17982302273894924_5140000769855233408_n-1024x768.webp</image:loc>
-		</image:image>
-	</url>
-	<url>
-		<loc>./press/index.html</loc>
-		<lastmod>2025-08-28T20:33:23+00:00</lastmod>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-scaled.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
-		</image:image>
-		<image:image>
-			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Pine-Marten-Best-WEB-mobile-1024x954.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
 		<loc>./publiceringar/index.html</loc>
-		<lastmod>2025-08-28T20:38:30+00:00</lastmod>
+		<lastmod>2025-09-14T20:52:45+00:00</lastmod>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n.jpg</image:loc>
 		</image:image>
@@ -226,6 +217,9 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/534508419_1540354470456518_4609947351748485270_n-802x1024.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/09/MG_9434-Copy-Enhanced-NR-1024x683.jpg</image:loc>
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
@@ -265,6 +259,47 @@
 		</image:image>
 		<image:image>
 			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-p4-SR-radio-1024x683.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./404-error/index.html</loc>
+		<lastmod>2025-09-21T09:50:08+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/IMG_1375.jpg</image:loc>
+		</image:image>
+	</url>
+	<url>
+		<loc>./biografi/index.html</loc>
+		<lastmod>2025-09-21T09:58:17+00:00</lastmod>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-scaled.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Denat-Lahi-Portratt-Beskuren-1024x739.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/Skogsmard-bakom-kulisserna-kodar-kameran-1024x764.jpeg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/portratt2WEB-1024x576.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539250116_1549632799528685_4403539118545916307_n-1024x768.jpg</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/539521900_17982302297894924_1800861617818317049_n-1024x768.webp</image:loc>
+		</image:image>
+		<image:image>
+			<image:loc>./wp-content/uploads/2025/08/540970858_17982302273894924_5140000769855233408_n-1024x768.webp</image:loc>
 		</image:image>
 	</url>
 </urlset>

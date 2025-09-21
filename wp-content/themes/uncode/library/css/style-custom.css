@@ -2769,7 +2769,7 @@ button[type="submit"] {
   color: rgba(255,255,255,.5);
 }
 .menu-dark .mobile-additional-icon {
-  color: #ffffff;
+  color: #000000;
 }
 @media (min-width: 960px) {
   body:not(.navbar-hover) .menu-desktop-transparent.style-dark-override.top-menu p {
@@ -2786,7 +2786,7 @@ button[type="submit"] {
     color: #b1945c;
   }
   body:not(.navbar-hover) .menu-desktop-transparent.style-dark-override .mobile-additional-icon {
-    color: #ffffff;
+    color: #000000;
   }
 }
 @media (max-width: 959px) {
@@ -2804,7 +2804,7 @@ button[type="submit"] {
     color: #b1945c;
   }
   body:not(.open-overlay-menu) .menu-mobile-transparent.style-dark-override .mobile-additional-icon {
-    color: #ffffff;
+    color: #000000;
   }
 }
 @media (min-width: 960px) {
@@ -3300,7 +3300,7 @@ body:not(.menu-force-opacity):not(.navbar-hover).menu-overlay .menu-transparent:
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).style-dark-original.style-light-override > *:not(.overlay-search),
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-parent-off-canvas.style-dark-original.style-light-override > *:not(.overlay-search) {
     background: transparent;
-    background-color: rgba(5,15,0,1);
+    background-color: rgba(5,15,0,0);
   }
   body:not(.menu-overlay):not(.hmenu-center):not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).style-dark-original,
   body:not(.menu-overlay):not(.hmenu-center):not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-parent-off-canvas.style-dark-original,
@@ -3322,7 +3322,7 @@ body:not(.menu-force-opacity):not(.navbar-hover).menu-overlay .menu-transparent:
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).style-dark-original.style-light-override > *:not(.overlay-search),
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-parent-off-canvas.style-dark-original.style-light-override > *:not(.overlay-search) {
     background: transparent;
-    background-color: rgba(5,15,0,1);
+    background-color: rgba(5,15,0,0);
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).style-dark-original > *:not(.overlay-search),
   body:not(.menu-force-opacity):not(.navbar-hover) .menu-wrapper:not(.no-header) .menu-transparent:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-parent-off-canvas.style-dark-original > *:not(.overlay-search),
@@ -3569,13 +3569,13 @@ body:not(.menu-force-opacity) .menu-primary:not(.is_stuck:not(.menu-desktop-tran
   fill: #ffffff;
 }
 .style-dark .navbar-brand .logo-skinnable {
-  color: #ffffff;
+  color: #000000;
 }
 .style-dark .navbar-brand .logo-skinnable > * {
-  color: #ffffff;
+  color: #000000;
 }
 .style-dark .navbar-brand .logo-skinnable svg * {
-  fill: #ffffff;
+  fill: #000000;
 }
 @media (min-width: 960px) {
   body:not(.menu-force-opacity):not(.navbar-hover) .style-light-override:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable,
@@ -3596,17 +3596,17 @@ body:not(.menu-force-opacity) .menu-primary:not(.is_stuck:not(.menu-desktop-tran
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable {
-    color: #ffffff;
+    color: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable > *,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable > *,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable > * {
-    color: #ffffff;
+    color: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable svg *,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable svg *,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable svg * {
-    fill: #ffffff;
+    fill: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-light-override:not(.is_stuck:not(.menu-desktop-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-dark,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-light-override:not(.is_stuck:not(.menu-desktop-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-dark,
@@ -3648,17 +3648,17 @@ body:not(.menu-force-opacity) .menu-primary:not(.is_stuck:not(.menu-desktop-tran
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable {
-    color: #ffffff;
+    color: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable > *,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable > *,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable > * {
-    color: #ffffff;
+    color: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-skinnable svg *,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-skinnable svg *,
   html.overlay-open body:not(.menu-force-opacity):not(.navbar-hover) .style-dark-override .navbar-brand .logo-skinnable svg * {
-    fill: #ffffff;
+    fill: #000000;
   }
   body:not(.menu-force-opacity):not(.navbar-hover) .style-light-override:not(.is_stuck:not(.menu-mobile-transparent)):not(.is_mobile_open).menu-transparent .navbar-brand .logo-dark,
   body:not(.menu-force-opacity):not(.navbar-hover) .style-light-override:not(.is_stuck:not(.menu-mobile-transparent)).is_mobile_open.menu-transparent.menu-parent-off-canvas .navbar-brand .logo-dark,

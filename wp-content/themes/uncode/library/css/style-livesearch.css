@@ -80,8 +80,8 @@ ul.dwls_search_results .clearfix {
   height: 32px;
 }
 .style-light#search_results_activity_indicator {
-  background-image: url(../img/oval-anim-light.svg);
+  background-image: url(./../img/oval-anim-light.svg);
 }
 .style-dark#search_results_activity_indicator {
-  background-image: url(../img/oval-anim-dark.svg);
+  background-image: url(./../img/oval-anim-dark.svg);
 }

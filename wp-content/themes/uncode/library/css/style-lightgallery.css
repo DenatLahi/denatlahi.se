@@ -492,7 +492,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-opacity .lg-item:not(.lg-zoomable).lg
   display: none !important;
 }
 .lg-outer .lg-item:not(.lg-start-end-progress) {
-  background: url(../img/oval-anim-dark.svg) no-repeat scroll center center transparent;
+  background: url(./../img/oval-anim-dark.svg) no-repeat scroll center center transparent;
 }
 .lg-outer.lg-css3 .lg-prev-slide,
 .lg-outer.lg-css3 .lg-current,
@@ -1192,7 +1192,7 @@ body:not(.lg-from-hash) .lg-outer.lg-start-opacity .lg-item:not(.lg-zoomable).lg
   position: relative;
 }
 .lg-thumb-item.thumbnail-video::after {
-  background: url('../img/ilightbox/black-skin/thumb-overlay-play.png') no-repeat center;
+  background: url('./../img/ilightbox/black-skin/thumb-overlay-play.png') no-repeat center;
   content: '';
   display: block;
   width: 100%;

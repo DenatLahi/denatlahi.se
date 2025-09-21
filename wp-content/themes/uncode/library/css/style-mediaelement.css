@@ -371,7 +371,7 @@ video.wp-video-shortcode,
   opacity: 1;
 }
 .mejs-overlay-loading:before {
-  background-image: url(../img/oval-anim-dark.svg);
+  background-image: url(./../img/oval-anim-dark.svg);
   background-repeat: no-repeat;
   display: -webkit-box;
   display: -webkit-flex;
@@ -800,7 +800,7 @@ video.wp-video-shortcode,
 }
 .mejs-captions-text {
   padding: 3px 5px;
-  background: url(background.png);
+  background: url(./background.png);
   background: rgba(20, 20, 20, 0.8);
 }
 .me-cannotplay a {
