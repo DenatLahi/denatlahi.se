@@ -1,4 +1,2 @@
 User-agent: *
-Disallow:
-
-Sitemap: https://denatlahi.se/sitemap.xml
+Disallow: /
