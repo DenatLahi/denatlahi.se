@@ -1,21 +1,19 @@
 <!DOCTYPE html>
 <html lang="sv">
-<head>
-  <meta charset="utf-8">
-  <meta http-equiv="refresh" content="0; url=https://denatlahi.com/svenska">
+  <head>
+    <meta charset="utf-8" />
+    <meta http-equiv="refresh" content="0; url=https://denatlahi.com/svenska" />
 
-  <script data-goatcounter="https://stats.denatlahi.se/count"
-          async
-          src="//gc.zgo.at/count.js"></script>
+    <script>
+      var p = location.pathname;
 
-  <script>
-    var p = location.pathname;
-    if (p === "/") {
-      location.replace("https://denatlahi.com/svenska");
-    } else {
-      location.replace("https://denatlahi.com/svenska" + p);
-    }
-  </script>
-</head>
-<body></body>
+      if (p === "/") {
+        location.replace("https://denatlahi.com/svenska");
+      } else {
+        location.replace("https://denatlahi.com/svenska" + p);
+      }
+    </script>
+  </head>
+
+  <body></body>
 </html>
